@@ -24,7 +24,8 @@
 | Photo | Description |
 |-------|-------------|
 | ![photo1](link) | Full laptop exterior (top view) |
-| ![photo2](link) | Full laptop interior (after bottom cover removed) |
+| ![photo2](l![Full laptop interior Lenovo V14](https://github.com/user-attachments/assets/e412f5bc-04fb-43ad-bd1b-7b5dd5cf4cde)
+ink) | Full laptop interior (after bottom cover removed) |
 | ![photo3](link) | Motherboard / corrosion close-up |
 
 > These three photos document the main visual points: overall condition, internal layout, and key damage areas. Additional photos can be added later if necessary.
